@@ -69,6 +69,9 @@ This project includes bonus features:
 
 - **Unit Testing for List Endpoint:**
   - Unit tests for the `api/list` route to ensure expected subject/body.
+ 
+- **Laravel Migration from 9 to 10:**
+  - Updated laravel version from 9 to 10.
 
 
 
