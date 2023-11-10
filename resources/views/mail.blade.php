@@ -1,0 +1,2 @@
+<div>{!!$emailData['body']!!}</div>
+
