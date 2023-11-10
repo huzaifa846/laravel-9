@@ -22,20 +22,22 @@ After cloning the repository, follow the steps below:
    - **Email:** testuser@mail.com
    - **Password:** 1234
 
-   ![Login Api](https://github.com/huzaifa846/laravel-9/assets/69592870/9aa62547-4a06-4d9b-aa93-0cdb20490130)
+ ![Login Api](https://github.com/huzaifa846/laravel-9/assets/69592870/4e9b863e-9cbc-44c3-9cda-8b07817b3745)
+
 
 3. Send Emails API:
 
    - **URL:** [http://127.0.0.1:8000/api/w9eQvHv3ei28mbSs36ZuxiELpSdilRRC8bxFmIx5EvXXpaoRjIKdaLoaml5u/send](http://127.0.0.1:8000/api/w9eQvHv3ei28mbSs36ZuxiELpSdilRRC8bxFmIx5EvXXpaoRjIKdaLoaml5u/send)
 
-![Send Email Api](https://github.com/huzaifa846/laravel-9/assets/69592870/530d3e7f-19d0-4bc1-978c-1ffaaec917eb)
+![Send Email Api](https://github.com/huzaifa846/laravel-9/assets/69592870/25fbb202-c160-4589-84b6-9ecc07ee72d9)
 
 
 4. Emails List API:
 
    - **URL:** [http://127.0.0.1:8000/api/list](http://127.0.0.1:8000/api/list)
 
-   ![Emails List](https://github.com/huzaifa846/laravel-9/assets/69592870/7d90eda1-71e8-4329-8361-7241d85969f6)
+![Emails list api](https://github.com/huzaifa846/laravel-9/assets/69592870/b501ad71-b321-4b53-8a19-fa4487eae960)
+
 
 ### Project Requirements
 
